@@ -1,14 +1,16 @@
+
+
 [
   {
     "nombre": "Producto A",
     "fecha_entrada": "2026-01-01",
     "fecha_vencimiento": "2026-12-31",
-    "stock": 100
+    "stock": 150
   },
   {
     "nombre": "Producto B",
     "fecha_entrada": "2026-02-01",
     "fecha_vencimiento": "2026-07-30",
-    "stock": 50
+    "stock": 100
   }
 ]
